@@ -22,16 +22,22 @@ I love to learn about everything and anything and I equally enjoy sharing the th
   <tbody>
     <tr>
       <td>Angular 12</td>
+      <td>Java 19</td>
+    </tr>
+    <tr>
       <td>Angular HttpClient</td>
+      <td>Spring Boot 3.0.2 (Spring Web MVC, Spring Data JPA)</td>
+    </tr>
+    <tr>
       <td>Angular Router</td>
-      <td>Bootstrap 5</td>
+      <td>PostgreSQL 15</td>
     </tr>
      <tr>
-      <td>Java 19</td>
-      <td>Spring Boot 3.0.2 (Spring Web MVC, Spring Data JPA)</td>
-      <td>PostgreSQL 15</td>
+      <td>Bootstrap 5</td>
       <td>Maven 4.0.0</td>
-      <td>Architectural Style (Hexagonal Architecture)</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>Architectural Style (Hexagonal Architecture)</td></tr>
   </tbody>
 </table>
