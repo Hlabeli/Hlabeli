@@ -23,7 +23,7 @@ I love to learn about everything and anything and I equally enjoy sharing the th
     <tr>
       <td>Angular 12</td>
       <td>Angular HttpClient</td>
-      <td>AAngular Router</td>
+      <td>Angular Router</td>
       <td>Bootstrap 5</td>
     </tr>
      <tr>
