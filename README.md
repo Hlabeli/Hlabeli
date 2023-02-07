@@ -11,7 +11,7 @@ I love to learn about everything and anything and I equally enjoy sharing the th
 - 🌱 I’m currently learning: E and other formulas
 - 💬 Ask me about: JEE, PL/SQL, Web Services (Rest API, SOAP), REACT
 - 📫 How to reach me: [@HlabeliSello](https://twitter.com/HlabeliSello)
-- 🔭 I’m currently working on: A bunch of ERP Modules using the following tech stack:
+- 🔭 I’m currently working on: A bunch of ERP Modules using the following <b>Tech Stack</b>:
 <table class="table">
   <thead>
     <tr>
