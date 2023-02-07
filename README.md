@@ -15,29 +15,23 @@ I love to learn about everything and anything and I equally enjoy sharing the th
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Frontend</th>
+      <th scope="col">Backend</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>Angular 12</td>
+      <td>Angular HttpClient</td>
+      <td>AAngular Router</td>
+      <td>Bootstrap 5</td>
     </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+     <tr>
+      <td>Java 19</td>
+      <td>Spring Boot 3.0.2 (Spring Web MVC, Spring Data JPA)</td>
+      <td>PostgreSQL 15</td>
+      <td>Maven 4.0.0</td>
+      <td>Architectural Style (Hexagonal Architecture)</td>
     </tr>
   </tbody>
 </table>
