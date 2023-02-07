@@ -4,14 +4,13 @@
 </p>
 
 ---
-✨ I'm a full-stack with a passion for enterprise applications development and automation testing. 
+🌱 I’m working as an Applications Developer and contributing to frontend and backend for building enterprise web applications.
 
-I love to learn about everything and anything and I equally enjoy sharing the things I learn along the way, no matter how random lol. Currently my interest are enterprise applications development and configurations, blockchain development, fintech, DevOps, Integration.
+I love to learn about everything and anything about technology and I equally enjoy sharing the things I learn along the way, no matter how random lol. Currently my interest are enterprise applications development and configurations, blockchain development, fintech, DevOps, Integration.
 
-- 🌱 I’m currently learning: React
 - 💬 Ask me about: JEE, JSE, PL/SQL, Web Services (Rest API, SOAP), Frameworks(OUAF, Spring, Laravel, Django), Angular.
 - 📫 How to reach me: [@HlabeliSello](https://twitter.com/HlabeliSello)
-- 🔭 I’m currently working on: A bunch of ERP Modules using the following <b>Tech Stack</b>:
+- 🔭 I’m currently working remotely on: A bunch of ERP Modules using the following <b>Tech Stack</b>:
 <table class="table">
   <thead>
     <tr>
