@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Sello Hlabeli</h3>
+<h3 align="center">👋 Hi, Sello here!</h3>
 
 ---
 ### 👨‍💻: &nbsp;About Me :
