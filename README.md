@@ -1,7 +1,4 @@
 <h3 align="center">👋 Hi there! I'm Sello Hlabeli</h3>
-<p align="center">
-  <a href="https://twitter.com/HlabeliSello">Twitter</a>
-</p>
 
 ---
 ### 👨‍💻: &nbsp;About Me :
@@ -79,11 +76,11 @@ I love to learn about everything and anything about technology and I equally enj
     <img src="https://img.shields.io/badge/-hlabeli.cs@gmail@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hlabeli.cs@gmail.com" />
   </a>
 <a href="https://twitter.com/HlabeliSello/?tab=follow">
- <img src="https://twitter.com/HlabeliSello?label=follow&style=social" />
+    <img src="https://img.shields.io/twitter/follow/HlabeliSello?label=follow&style=social" />
 </a>
-  <a href="https://github.com/Hlabeli/?tab=follow">
+<a href="https://github.com/Hlabeli/?tab=follow">
     <img src="https://img.shields.io/github/followers/Hlabeli?label=Follow&style=social" />
-  </a>
+</a>
 </p>
 
 ---
