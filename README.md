@@ -72,7 +72,7 @@ I love to learn about everything and anything about technology (currently am lea
  ## Let's Connect :earth_africa:
 <p align="left">
   <a href="mailto:hlabeli.cs@gmail.com">
-    <img src="https://img.shields.io/badge/-hlabeli.cs@gmail@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hlabeli.cs@gmail.com" />
+    <img src="https://img.shields.io/badge/-hlabeli.cs@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hlabeli.cs@gmail.com" />
   </a>
 <a href="https://twitter.com/HlabeliSello/?tab=follow">
     <img src="https://img.shields.io/twitter/follow/HlabeliSello?label=follow&style=social" />
