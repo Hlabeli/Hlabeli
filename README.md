@@ -18,7 +18,7 @@ I love to learn about everything and anything about technology (currently am lea
   </thead>
   <tbody>
     <tr>
-      <td>Angular 12</td>
+      <td>Angular 15</td>
       <td>Java 19</td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@ I love to learn about everything and anything about technology (currently am lea
       <td>PostgreSQL 15</td>
     </tr>
      <tr>
-      <td>Bootstrap 5</td>
+      <td>Bootstrap 5 & Ngx-boostrap</td>
       <td>Maven 4.0.0</td>
     </tr>
     <tr>
