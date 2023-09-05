@@ -34,7 +34,7 @@ I love to learn about everything and anything about technology (currently am lea
       <td>Maven 4.0.0</td>
     </tr>
     <tr>
-      <td></td>
+      <td>NgRx</td>
       <td>Architectural Style (Hexagonal Architecture)</td></tr>
   </tbody>
 </table>
